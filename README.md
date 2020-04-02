@@ -1,2 +1,2 @@
 # COVID-19-AU
-"flattening the curve" in the context of Australia
+Cases, data etc in Western Australia (initially Perth Metro area).
